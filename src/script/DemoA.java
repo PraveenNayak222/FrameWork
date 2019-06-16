@@ -19,6 +19,7 @@ public class DemoA {
 	public void testB()
 	{
 		Reporter.log("Executing testB",true);
+		Reporter.log("Executing testB",true);
 	}
 	
 	@AfterMethod
